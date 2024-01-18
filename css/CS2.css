@@ -1,0 +1,228 @@
+*{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0px;
+}
+
+html{
+    
+    margin-top: 0px;
+}
+
+.top{
+    background-color: rgb(43, 43, 43);
+    font-size: 3em;
+    display: block;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.top-conteiner{
+    text-decoration: none;
+    font-family: Inter,sans-serif;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: bold;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.top-conteiner a{
+    cursor: pointer;
+    text-decoration: none;
+    color: aliceblue;;
+}
+.Главная1{
+    margin-left: 50px;
+}
+
+.Текс_топика{
+    font-size: small;
+}
+
+.Турниры1{
+    margin-left: 50px;
+}
+
+.top2{
+    display: inline-block;
+    position: relative;
+    height: 200px;
+}
+.top2 p{
+    z-index: 2;
+    color: aliceblue;
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+    position: relative;
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+.real1{
+    position: absolute;
+    width: 1864px;
+    height: 900px;
+}
+.stroke1{
+    margin-top: 200px;
+}
+.stroke1 p{
+    font-size: 0.9em;
+    padding-right: 900px;
+}
+.Текс_топика2{
+    margin-top: 0px;
+}
+
+.line1{
+    display: flex;
+    margin-top: 400px;
+    background-color: blue;
+}
+
+.border1{
+    margin-top: 337px;
+    width: 100%;
+    padding-left: 0px;
+}
+.under_info1{
+    margin-top: 320px;
+    justify-content: center;
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+    /* background-color: rgb(1, 4, 36);  */
+    padding-left: 150px;
+    padding-right: 150px;
+    background: url(../img/1613145146_158-p-oboi-cherno-zheltii-fon-201.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 40px;
+}
+.under_info1 p{
+    color: rgb(211, 240, 255);
+}
+
+.Заголовок1{
+    font-size: 1.3em;
+    margin-left: 380px;
+    margin-top: 30px;
+    padding-top: 30px;
+    color: rgb(211, 240, 255);
+    position: relative;
+
+}
+
+.par1{ 
+    margin-top: 50px;
+    color: rgb(211, 240, 255);
+    position: relative;
+    text-align: center;
+}
+.Заголовок2{
+    font-size: 1.3em;
+    margin-left: 210px;
+    margin-top: 30px;
+    color: rgb(211, 240, 255);
+    position: relative;
+}
+.par2{
+    margin-top: 50px;
+    color: rgb(211, 240, 255);
+    position: relative;
+    text-align: center;
+}
+
+.Заголовок3{
+    font-size: 1.3em;
+    margin-left: 220px;
+    margin-top: 30px;
+    color: rgb(211, 240, 255);
+    position: relative;
+}
+.par3{
+    margin-top: 50px;
+    color: rgb(211, 240, 255);
+    position: relative;
+    text-align: center;
+}
+.real2{
+    position: absolute;
+    width: 800px;
+    height: 500px;
+    margin-left: 1000px;
+    margin-top: 200px;
+    size: 50%;
+}
+.Заголовок4{
+    font-size: 1.3em;
+    margin-left: 240px;
+    margin-top: 30px;
+    color: rgb(211, 240, 255);
+    position: relative;
+}
+.par4{
+    margin-top: 50px;
+    color: rgb(211, 240, 255);
+    position: relative;
+    text-align: center;
+}
+/* Нижний топик */
+.bottom_info1{
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    display: flex;
+    align-items: end;
+    width: 1500px;
+}
+
+
+
+.razrabi1{
+    font-size: 0.6em;
+    color: rgb(255, 238, 54);
+}
+.razrabi2{
+    font-size: 0.6em;
+    color: rgb(100, 100, 100);
+}
+.razrabi3{
+    font-size: 0.6em;
+    color: rgb(100, 100, 100);
+}
+.razrabi4{
+    font-size: 0.6em;
+    color: rgb(100, 100, 100);
+    padding-bottom: 50px;
+}
+
+/* .ramka1{
+    position: absolute;
+    width: 1500px;
+    height: 1000px;
+} */
+.IMSIT_LOGO{
+    width: 400px;
+    height: 200px;
+    margin-left: 750px;
+    
+}
+.text_bottom{
+    width: 600px;
+}
+.bottom_img{
+    width: 400px;
+}

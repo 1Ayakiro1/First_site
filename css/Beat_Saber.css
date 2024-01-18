@@ -1,0 +1,214 @@
+*{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0px;
+}
+
+html{
+    
+    margin-top: 0px;
+}
+
+.top{
+    background-color: rgb(43, 43, 43);
+    font-size: 3em;
+    display: block;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.top-conteiner{
+    text-decoration: none;
+    font-family: Inter,sans-serif;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: bold;
+    justify-content: center;
+    justify-items: center;
+    display: flex;
+    color: aliceblue;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    text-decoration: none;
+    padding-bottom: 20px;
+    
+}
+
+.top-conteiner a{
+    cursor: pointer;
+    text-decoration: none;
+    color: aliceblue;;
+}
+.under_info1 p{
+    text-align: center;
+}
+
+.КС2{
+    margin-right: 50px;
+}
+.Турниры1{
+    margin-left: 50px;
+}
+
+.top2{
+    display: inline-block;
+    position: relative;
+    height: 800px;
+    margin-bottom: 10px;
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+}
+.fon_topika1{
+    position: absolute;
+    width: 1863px;
+    height: 805px;
+}
+.video1{
+    position: relative;
+    margin-left: 100px;
+    margin-top: 200px;
+    display: inline-block;
+    
+}
+.str1{
+    width: 900px;
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    margin-left: 10px;
+    margin-bottom: 200px;
+}
+
+.top2 p{
+    z-index: 2;
+    color: aliceblue;
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+    position: relative;
+    font-size: 0.9em;
+    margin-top: 20px;
+}
+
+.real1{
+    position: absolute;
+    width: 1864px;
+    height: 900px;
+}
+.stroke1{
+    margin-top: 250px;
+}
+.строка_топика1{
+    margin-bottom: 20px;
+}
+.строка_топика2{
+    margin-bottom: 100px;
+}
+.par1{
+    margin-left: 440px;
+    color: rgb(45, 161, 233);
+}
+.par2{
+    margin-left: 250px;
+    color: rgb(45, 161, 233);
+}
+.par3{
+    margin-left: 310px;
+    color: rgb(45, 161, 233);
+}
+.par5{
+    margin-top: 50px;
+    padding-top: 50px;
+}
+.line1{
+    display: flex;
+    margin-top: 400px;
+    background-color: blue;
+}
+.bottom_info_topic{
+    justify-content: space-around;
+    display: flex;
+
+}
+.top-players-table{
+    width: 1400px;
+    height: 1100px;
+    margin-left: 60px;
+}
+.another_info{
+    margin-top: 20px;
+}
+
+.border1{
+    margin-top: 5px;
+    width: 100%;
+    padding-left: 90px;
+    position: relative;
+}
+.under_info1{
+    justify-content: center;
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+    /* background-color: rgb(1, 4, 36);  */
+    padding-left: 150px;
+    padding-right: 150px;
+    background: url(../img/80847-sinij-liniya-atmosfera-angle-svet-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-bottom: 40px;
+}
+.under_info1 p{
+    color: rgb(211, 240, 255);
+}
+/* Нижний топик */
+.bottom_info1{
+    font-family: Inter,sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    display: flex;
+    align-items: end;
+    width: 1500px;
+}
+
+
+
+.razrabi1{
+    font-size: 0.6em;
+    color: rgb(218, 186, 240);
+}
+.razrabi2{
+    font-size: 0.6em;
+    color: rgb(100, 100, 100);
+}
+.razrabi3{
+    font-size: 0.6em;
+    color: rgb(100, 100, 100);
+}
+.razrabi4{
+    font-size: 0.6em;
+    color: rgb(100, 100, 100);
+    padding-bottom: 50px;
+}
+
+/* .ramka1{
+    position: absolute;
+    width: 1500px;
+    height: 1000px;
+} */
+.IMSIT_LOGO{
+    width: 400px;
+    height: 200px;
+    margin-left: 750px;
+    
+}
+.text_bottom{
+    width: 600px;
+}
+.bottom_img{
+    width: 400px;
+}
